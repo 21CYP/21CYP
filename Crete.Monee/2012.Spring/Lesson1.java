@@ -1,5 +1,5 @@
 
-public class lessons {
+public class Lesson1 {
 	public static void main(String[] args) {
 		// how to show messages on screen
 		//print will print to one line and will continue on the same line
